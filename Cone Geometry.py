@@ -45,11 +45,3 @@ else:
         print("python conegeometry.py <height> <radius> <area_or_volume>\n")
         print("    area_or_volume:   must be area or  volume")
         quit()
-
-
-
-
-
-#Questions:
-#Do height and radius have to be ints or floats?
-#for usage do I have to print the usage in the terminal or can it be as a string?
